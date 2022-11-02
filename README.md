@@ -1,6 +1,6 @@
 # flutter_database
 
-A new Flutter project.
+It's a project that comes from learn flutter database.
 
 ## Getting Started
 
